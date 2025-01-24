@@ -22,7 +22,7 @@ export default function Home() {
         </ul>
       </nav>
 
-      <section style={heroStyle}>
+      <section style={heroStyleWithoutImage}>
         <h2 style={heroH2Style}>Faith that Moves Mountains</h2>
         <p style={heroPStyle}>Join thousands on a journey to spiritual growth with GrowInFaith, available on Google Play.</p>
         <button style={heroButtonStyle}>Download on Google Play</button>
@@ -99,8 +99,8 @@ const navLinkStyle = {
   transition: "color 0.3s",
 };
 
-const heroStyle = {
-  background: "url('https://via.placeholder.com/1500x500') no-repeat center/cover",
+const heroStyleWithoutImage = {
+  background: "linear-gradient(135deg, #92FE9D, #00C9FF)",
   color: "white",
   textAlign: "center",
   padding: "5rem 1rem",
