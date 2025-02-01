@@ -171,7 +171,7 @@
 
     <section class="contact">
         <h2>Contact Us</h2>
-        <p>Email: support@growinfaith.com</p>
+        <p>Email: support@growinfaithapp.com</p>
         <p>Phone: +123 456 7890</p>
         <p>Follow us on social media</p>
     </section>
