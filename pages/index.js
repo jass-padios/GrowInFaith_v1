@@ -140,7 +140,7 @@
     <section class="hero">
         <div class="hero-content">
             <h1>Grow Your Faith with GrowInFaith</h1>
-            <p>Start your journey in faith with guided devotionals, prayers, and Bible study tools.</p>
+            <p>Begin your journey with features designed to deepen your faith and spiritual growth.</p>
             <div class="hero-buttons">
                 <a href="#"><img src="appstore_logo.png" alt="Google Play Icon">Download on Google Play</a>
             </div>
@@ -153,7 +153,7 @@
     <section class="features">
         <h2>Explore Our Features</h2>
         <div class="feature-box">
-            <div class="feature">📖 Bible Study</div>
+            <div class="feature">📖 Daily Devotional</div>
             <div class="feature">🗣️ Share the Gospel</div>
             <div class="feature">🤝 Community</div>
             <div class="feature">✨ And More...</div>
