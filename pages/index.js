@@ -142,7 +142,7 @@
             <h1>Grow Your Faith with GrowInFaith</h1>
             <p>Start your journey in faith with guided devotionals, prayers, and Bible study tools.</p>
             <div class="hero-buttons">
-                <a href="#"><img src="google-play-icon.png" alt="Google Play Icon">Download on Google Play</a>
+                <a href="#"><img src="appstore_logo.png" alt="Google Play Icon">Download on Google Play</a>
             </div>
         </div>
         <div class="hero-image">
