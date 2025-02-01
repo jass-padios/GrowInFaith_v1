@@ -146,7 +146,7 @@
             </div>
         </div>
         <div class="hero-image">
-            <img src="app-mockup.png" alt="GrowInFaith App Screenshot">
+            <img src="onboard.png" alt="GrowInFaith App Screenshot">
         </div>
     </section>
 
