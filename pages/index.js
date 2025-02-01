@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>GrowInFaith</title>
     <style>
-        {
+        * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
@@ -140,13 +140,13 @@
     <section class="hero">
         <div class="hero-content">
             <h1>Grow Your Faith with GrowInFaith</h1>
-            <p>Begin your journey with features designed to deepen your faith and spiritual growth.</p>
+            <p>Begin your journey with powerful features designed to deepen your faith and spiritual growth.</p>
             <div class="hero-buttons">
-                <a href="#"><img src="appstore_logo.png" alt="Google Play Icon">Download on Google Play</a>
+                <a href="#"><img src="google-play-icon.png" alt="Google Play Icon">Download on Google Play</a>
             </div>
         </div>
         <div class="hero-image">
-            <img src="onboard.png" alt="GrowInFaith App Screenshot">
+            <img src="app-mockup.png" alt="GrowInFaith App Screenshot">
         </div>
     </section>
 
@@ -171,7 +171,7 @@
 
     <section class="contact">
         <h2>Contact Us</h2>
-        <p>Email: support@growinfaithapp.com</p>
+        <p>Email: support@growinfaith.com</p>
         <p>Phone: +123 456 7890</p>
         <p>Follow us on social media</p>
     </section>
